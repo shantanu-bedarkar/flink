@@ -10,3 +10,6 @@ jobs:
       run: echo Embold Start
     - name: End
       run: echo Embold End
+    - name: ExitCode
+      run: exit 1
+    
