@@ -176,7 +176,7 @@ under the License.
 			<!-- Test dependency classloading -->
 			<plugin>
 				<artifactId>maven-assembly-plugin</artifactId>
-				<version>2.4</version>
+				<version>3.3.0</version>
 				<executions>
 					<execution>
 						<id>create-table-factories-jar</id>
