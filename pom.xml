@@ -1635,7 +1635,7 @@ under the License.
 					<groupId>pl.project13.maven</groupId>
 					<artifactId>git-commit-id-plugin</artifactId>
 					<!-- Don't use 2.1.14 as it is incompatible with various maven versions --> 
-					<version>2.1.10</version>
+					<version>4.0.3</version>
 					<configuration>
 						<excludeProperties>
 							<excludeProperty>git.build.*</excludeProperty>
